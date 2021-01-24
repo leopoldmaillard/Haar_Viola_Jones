@@ -5,3 +5,4 @@ Implémentation en Python de certaines étapes de la méthode :
 - Extraction des caractéristiques de Haar
 - Application d'une caractéristique
 - Application d'une cascade de classifieur (OpenCV) à des images, vidéos et ajout de filtre.
+ 
